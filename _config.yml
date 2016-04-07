@@ -1,0 +1,28 @@
+name: Helium Inflight
+favicon: null
+layout_spectrum: 0.9610168056096882
+typography_spectrum: 0.29755839752033353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.025755096692591906
+  lightness: 0.20250855688937008
+  saturation: 0.07108909077942371
+  rhythmicContrast: 0.5458950423635542
+purpose: []
