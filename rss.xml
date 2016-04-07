@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Helium Inflight]]></title>
+        <description><![CDATA[Helium Inflight]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 18:40:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[King of iPads]]></title>
+            <description><![CDATA[<h1>King of iPads</h1>]]></description>
+            <link>undefined434b115b-cae4-473d-bb53-8f0e067cea9d/index.html</link>
+            <guid isPermaLink="false">434b115b-cae4-473d-bb53-8f0e067cea9d</guid>
+            <pubDate>Thu, 07 Apr 2016 18:39:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
